@@ -1,12 +1,22 @@
-
 ---
 layout: page
-permalink: /talks/
-title: Talks
+permalink: /teaching/
+title: Teaching and Mentoring
 ---
 
-## Presentations
-# Talks
+
+<p>I believe that professional and personal success, growth, and happiness stem from a supportive environment that fosters life-long learning and curiosity. I am extremely passionate about mentoring and teaching students in both computational and wet-lab skills. My role as a mentor and instructor has been carried out through various outlets - either from one-on-one mentoring, formal course instruction, or short workshop modules. I have taught computational workshops as a <a href="https://carpentries.org/">Certified Carpentries Instructor</a> and short modules as a co-chair of the <a href="https://combee-uw-madison.github.io/studyGroup/">Computational Biology, Ecology, Evolution (ComBEE)</a> study group. I've also enjoyed mentoring undergraduate and masters students running lab-scale wastewater bioreactors. </p>
+
+<img class="center-block img img-responsive" src="../images/teaching_mentoring.png" alt="teaching">
+
+## Courses & Lectures
+<ul>
+    <li> Topics in Biotechnology Guest Lecturer on Wastewater Microbial Ecology</li>
+    <li> Microbiology 304: Biology of Microorganisms Laboratory Teaching Assistant</li>
+    <li> Microbiology 551: Senior Capstone Amplicon Analysis in R Guest Lecturer; Instructor and Developer - April 2020 <a href="https://elizabethmcd.github.io/R-amplicons/">[course website]</a></li>	       	
+</ul>
+
+## Computational Workshops
 <ul>
     <li>Software Carpentry Workshops; Helper - Dec. 2020, Aug. 2020, April 2020, Jan. 2020, June 2019</li>				       				       
 	<li>Carpentries Genomics Introduction to R; Instructor - Aug. 2019</li>						      
@@ -19,4 +29,4 @@ title: Talks
 	<li>ComBEE R Study Group Introduction to R; Instructor and Developer - Sp. 2017 <a href="https://github.com/ComBEE-UW-Madison/RStudyGroup">[study group repo]</a></li>
 	
 	</ul>
-l
+
