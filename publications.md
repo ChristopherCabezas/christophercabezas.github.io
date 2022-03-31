@@ -5,7 +5,7 @@ title: Publications and Preprints
 ---
 
 <ul>
-	<b>2. Homomorphisms between multidimensional constant-shape substitutions. <u>C. Cabezas</u></b> <i>arXiv.</i> Jun. 2021. <br>
+	<b>2. Homomorphisms between multidimensional constant-shape substitutions. <u>C. Cabezas</u></b>. <i>arXiv.</i> Jun. 2021. <br>
 		<a href="https://arxiv.org/pdf/2106.10504.pdf"><div class="color-button">pdf</div></a>
 	<br>
 	<br>
