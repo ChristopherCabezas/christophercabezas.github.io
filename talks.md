@@ -4,18 +4,6 @@ permalink: /talks/
 title: Talks
 ---
 
-
-
-
-<img class="center-block img img-responsive" src="../images/teaching_mentoring.png" alt="teaching">
-
-## Courses & Lectures
-<ul>
-    <li> Topics in Biotechnology Guest Lecturer on Wastewater Microbial Ecology</li>
-    <li> Microbiology 304: Biology of Microorganisms Laboratory Teaching Assistant</li>
-    <li> Microbiology 551: Senior Capstone Amplicon Analysis in R Guest Lecturer; Instructor and Developer - April 2020 <a href="https://elizabethmcd.github.io/R-amplicons/">[course website]</a></li>	       	
-</ul>
-
 ## Computational Workshops
 <ul>
     <li>Software Carpentry Workshops; Helper - Dec. 2020, Aug. 2020, April 2020, Jan. 2020, June 2019</li>				       				       
