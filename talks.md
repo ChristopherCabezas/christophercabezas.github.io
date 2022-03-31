@@ -1,20 +1,19 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Presentations
 ---
 
-## Presentations
+## Talks
 <ul>
-    <li>Software Carpentry Workshops; Helper - Dec. 2020, Aug. 2020, April 2020, Jan. 2020, June 2019</li>				       				       
-	<li>Carpentries Genomics Introduction to R; Instructor - Aug. 2019</li>						      
-	<li>Data Carpentry Workshop Introduction to R; Instructor - June 2019</li>				                  
-	<li>Microbiome & Data Science Hubs Git/Github Pages Workshop; Instructor and Developer - Mar. 2019 <a href="https://combee-uw-madison.github.io/2017-09-29-git-workshop/">[lesson materials]</a></li>
-	<li>Resolving Microbial Communities at Strain-Level Resolution Symposium; Teaching Assistant - Aug. 2018</li>
-	<li>ComBEE Git/Github Pages Workshop; Instructor and Developer - Sept. 2017 <a href="https://combee-uw-madison.github.io/2017-09-29-git-workshop/">[lesson materials]</a></li>                                  	     
-	<li>ComBEE Anvi’o Workshop; Teaching Assistant - May 2017 </li>
-	<li>ComBEE Git Workshop; Teaching Assistant	- Mar. 2017	</li>
-	<li>ComBEE R Study Group Introduction to R; Instructor and Developer - Sp. 2017 <a href="https://github.com/ComBEE-UW-Madison/RStudyGroup">[study group repo]</a></li>
-	
+    <li><a href="https://www.math.uni-bielefeld.de/~mbaake/extsym/">Extended Symmetries in Symbolic Dynamics</a>; 18 - 19 October 2021, Bielefeld (Germany).</li>
+	<li><a href="https://gdrama2021.sciencesconf.org/">Journées annuelles du  GDR AMA</a>; 26 - 30 September 2021,  Porquerolles (France).</li>
+	<li>Séminaire de mathématiques discrètes de l'Université de Liège; 21 September 2021, Liège (Belgium)</li>
+	<li><a href="https://www.cirm-math.com/hybrid2313.html">Invariants combinatoires et algébriques des décalages et des pavages</a>; 11 - 15 January 2021, Marseille (France).</li>
+	<li><a href="https://sda2-2020.sciencesconf.org/">Journées SDA2 2020 : Systèmes Dynamiques, Automates & Algorithmes</a>; 3 - 4 December 2020, Caen</li>
 	</ul>
 
+## Posters
+<ul>
+	<li><a href="https://dyadisc4.sciencesconf.org/">Dyadisc4 : Dynamique et Analyse Discrète : problèmes ouverts en dynamique de faible complexitè</a>; 8 - 9 July 2021, Amiens (France).</li>
+	</ul>
