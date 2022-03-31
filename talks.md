@@ -19,4 +19,4 @@ title: Talks
 	<li>ComBEE R Study Group Introduction to R; Instructor and Developer - Sp. 2017 <a href="https://github.com/ComBEE-UW-Madison/RStudyGroup">[study group repo]</a></li>
 	
 	</ul>
-
+l
