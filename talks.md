@@ -4,7 +4,7 @@ permalink: /talks/
 title: Talks
 ---
 
-## Computational Workshops
+## Presentations
 <ul>
     <li>Software Carpentry Workshops; Helper - Dec. 2020, Aug. 2020, April 2020, Jan. 2020, June 2019</li>				       				       
 	<li>Carpentries Genomics Introduction to R; Instructor - Aug. 2019</li>						      
