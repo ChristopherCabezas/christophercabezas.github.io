@@ -12,7 +12,7 @@ title: Teaching
 
 ## Courses & Lectures
 <ul>
-    <table>
+    <table style="width:100%">
   <tr>
     <th>Dates</th>
     <th>Course</th>
