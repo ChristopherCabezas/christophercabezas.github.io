@@ -6,6 +6,9 @@ title: Presentations
 
 ## Talks
 <ul>
+	<li><a href="https://dyadisc6.sciencesconf.org/">Dyadisc 6: Dynamics on the Cantor set and applications</a>; 5 -7 July 20233, Amiens (France).</li>
+	<li><a href="https://pytheas.math.cnrs.fr/">Rencontre Pytheas Fogg: Décidabilité de l'apériodicité d'un pavage substitutif 2D</a>; 2 December 2022, Marseille (France).
+	<li><a href="https://www.i2m.univ-amu.fr/agenda/seminaires/seminaire-rauzy/">Rauzy Seminar</a>; 2 December 2022, Marseille (france).</li>
 	<li><a href="https://ps-mathematik.univie.ac.at/e/index.php?event=stc22">36th Summer Topology Conference</a>; 18 - 22 July 2022, Vienna (Austria).</li>
 	<li><a href="https://sda2-2022.sciencesconf.org/">Journées SDA2 2022</a>; 13 - 15 June 2022, Liège (Belgique).</li>
     <li><a href="https://www.math.uni-bielefeld.de/~mbaake/extsym/">Extended Symmetries in Symbolic Dynamics</a>; 18 - 19 October 2021, Bielefeld (Germany).</li>
