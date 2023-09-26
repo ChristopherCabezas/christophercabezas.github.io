@@ -5,8 +5,12 @@ title: Publications and Preprints
 ---
 
 <ul>
-	<b>2. Homomorphisms between multidimensional constant-shape substitutions. <u>C. Cabezas</u></b>. <i>arXiv.</i> Jun. 2021. to appear in <i>Groups Geom. Dyn.</i><br>
-		<a href="https://arxiv.org/pdf/2106.10504.pdf"><div class="color-button">pdf</div></a>
+	<b>3. Large normalizers of Zd-odometers systems and realization on substitutive subshifts. <u>C. Cabezas</u></b>, S. Petite. <i>arXiv.</i> Sep. 2023.<br>
+		<a href="https://arxiv.org/pdf/2309.10156.pdf"><div class="color-button">link</div></a>
+	<br>
+	<br>
+	<b>2. Homomorphisms between multidimensional constant-shape substitutions. <u>C. Cabezas</u></b>. <i>Groups Geom. Dyn.</i>, 17(4):1259–1323, 2023. <br>
+ 		<a href="https://ems.press/journals/ggd/articles/11460732"><div class="color-button">link</div></a>
 	<br>
 	<br>
 <b>1. Directional dynamical cubes for minimal Z^d-systems. <u>C. Cabezas</u></b>, S. Donoso, and A. Maass. <i>Ergodic Theory Dynam. Systems</i>, 40(12):3257-3295, 2020. <br>
