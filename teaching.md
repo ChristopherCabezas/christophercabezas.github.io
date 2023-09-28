@@ -15,11 +15,11 @@ title: Teaching
     <th>Exercise sessions</th>
   </tr>
   <tr>
-    <td style="text-align: center">13/03/2022 to 17/03/2022</td>
-    <td style="text-align: center">Ordinary Differential Equations</td>
-    <td style="text-align: center">Alexander Frank</td>
-    <td style="text-align: center">2nd-year (180 students)</td>
-    <td style="text-align: center">6h (Replacing the Lecture classes)</td>
+    <td style="text-align: center">14/09/2022 to Present</td>
+    <td style="text-align: center">Combinatorics on Words</td>
+    <td style="text-align: center">Julien Leroy</td>
+    <td style="text-align: center">Master in Math (5 students)</td>
+    <td style="text-align: center">20h</td>
   </tr>
   <tr>
     <td style="text-align: center">13/03/2022 to 17/03/2022</td>
