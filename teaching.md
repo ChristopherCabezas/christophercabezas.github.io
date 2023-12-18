@@ -18,7 +18,7 @@ title: Teaching
     <td style="text-align: center">14/09/2022 to Present</td>
     <td style="text-align: center">Combinatorics on Words</td>
     <td style="text-align: center">Julien Leroy</td>
-    <td style="text-align: center">Master in Math (5 students)</td>
+    <td style="text-align: center">Master in Math (10 students)</td>
     <td style="text-align: center">20h</td>
   </tr>
   <tr>
