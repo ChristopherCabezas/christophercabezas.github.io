@@ -14,8 +14,15 @@ title: Teaching
     <th>Audience</th>
     <th>Exercise sessions</th>
   </tr>
+    <tr>
+    <td style="text-align: center">06/02/2024 to 14/05/2024</td>
+    <td style="text-align: center">General Topology</td>
+    <td style="text-align: center">Céline Esser</td>
+    <td style="text-align: center">Bachelor in Math (15 students)</td>
+    <td style="text-align: center">20h</td>
+  </tr>
   <tr>
-    <td style="text-align: center">14/09/2022 to Present</td>
+    <td style="text-align: center">14/09/2023 to 22/12/2023</td>
     <td style="text-align: center">Combinatorics on Words</td>
     <td style="text-align: center">Julien Leroy</td>
     <td style="text-align: center">Master in Math (10 students)</td>
