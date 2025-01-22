@@ -5,4 +5,4 @@ title: Contact Information
 ---
 
 Christopher Cabezas <br>
-<a href = "mailto: ccabezas at uliege.be">ccabezas at uliege.be</a> <br>
+<a href = "mailto: ccabezas at dim.uchile.cl">ccabezas at dim.uchile.cl</a> <br>
