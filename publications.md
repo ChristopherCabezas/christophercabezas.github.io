@@ -5,8 +5,8 @@ title: Publications and Preprints
 ---
 
 <ul>
-	<b>4. Decidability of the isomorphism problem between multidimensional substitutive subshifts. <u>C. Cabezas</u></b>, J. Leroy. <i>arXiv.</i> March. 2024.<br>
-		<a href="https://arxiv.org/pdf/2403.11357.pdf"><div class="color-button">link</div></a>
+	<b>4. Decidability of the isomorphism problem between multidimensional substitutive subshifts. <u>C. Cabezas</u></b>, J. Leroy. <i>Ergodic Theory Dynam. Systems</i>. Published online 2024:1-41.<br>
+		<a href="https://doi.org/10.1017/etds.2024.87"><div class="color-button">link</div></a>
 	<br>
 	<br>
 	<b>3. Large normalizers of Zd-odometers systems and realization on substitutive subshifts. <u>C. Cabezas</u></b>, S. Petite.  <i>Discrete Contin. Dyn. Syst.</i>, 44(12):3848-3877, 2024.<br>
