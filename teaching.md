@@ -15,6 +15,13 @@ title: Teaching
     <th>Exercise sessions</th>
   </tr>
     <tr>
+    <td style="text-align: center">10/03/2025 to 31/07/2025</td>
+    <td style="text-align: center">Multivariable Calculus</td>
+    <td style="text-align: center">Christopher Cabezas</td>
+    <td style="text-align: center">2nd-year (110 students)</td>
+    <td style="text-align: center"></td>
+    </tr>
+    <tr>
     <td style="text-align: center">06/02/2024 to 14/05/2024</td>
     <td style="text-align: center">General Topology</td>
     <td style="text-align: center">Céline Esser</td>
