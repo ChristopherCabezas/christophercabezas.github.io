@@ -4,7 +4,60 @@ permalink: /teaching/
 title: Teaching
 ---
 
-## Courses & Lectures
+## Lecturer
+<ul>
+    <table style="width:100%">
+        <tr>
+        <th>Dates</th>
+        <th>Course</th>
+        <th>Titular</th>
+        <th>Audience</th>
+        </tr>
+        <tr>
+    <td style="text-align: center">10/03/2025 to 31/07/2025</td>
+    <td style="text-align: center">Introduction to Symbolic Dynamics</td>
+    <td style="text-align: center">Christopher Cabezas and Haritha Cheriyath</td>
+    <td style="text-align: center">Master in Math (5 students)</td>
+    <td style="text-align: center"></td>
+    </tr>
+        <tr>
+    <td style="text-align: center">10/03/2025 to 31/07/2025</td>
+    <td style="text-align: center">Introduction to Algebra</td>
+    <td style="text-align: center">Christopher Cabezas</td>
+    <td style="text-align: center">1st-year (70 students)</td>
+    <td style="text-align: center"></td>
+    </tr>
+        <tr>
+    <td style="text-align: center">13/03/2022 to 17/03/2022</td>
+    <td style="text-align: center">Multivariable Calculus</td>
+    <td style="text-align: center">Rafael Correa (Replacing the Lecturer classes 9h)</td>
+    <td style="text-align: center">2nd-year (85 students)</td>
+    <td style="text-align: center"></td>
+  </tr>
+        <tr>
+    <td style="text-align: center">10/03/2025 to 31/07/2025</td>
+    <td style="text-align: center">Multivariable Calculus</td>
+    <td style="text-align: center">Christopher Cabezas</td>
+    <td style="text-align: center">2nd-year (110 students)</td>
+    <td style="text-align: center"></td>
+    </tr>
+    <tr>
+    <td style="text-align: center">13/03/2022 to 17/03/2022</td>
+    <td style="text-align: center">Ordinary Differential Equations</td>
+    <td style="text-align: center">Alexander Frank (Replacing the Lecturer classes 6h)</td>
+    <td style="text-align: center">2nd-year (180 students)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">13/03/2022 to 17/03/2022</td>
+    <td style="text-align: center">Advanced Calculus</td>
+    <td style="text-align: center">Alexander Frank (Replacing the Lecture classes 3h)</td>
+    <td style="text-align: center">2nd-year (60 students)</td>
+    <td style="text-align: center"></td>
+  </tr>
+    </table>
+</ul>
+
+## Teaching Assistant
 <ul>
     <table style="width:100%">
   <tr>
@@ -14,13 +67,6 @@ title: Teaching
     <th>Audience</th>
     <th>Exercise sessions</th>
   </tr>
-    <tr>
-    <td style="text-align: center">10/03/2025 to 31/07/2025</td>
-    <td style="text-align: center">Multivariable Calculus</td>
-    <td style="text-align: center">Christopher Cabezas</td>
-    <td style="text-align: center">2nd-year (110 students)</td>
-    <td style="text-align: center"></td>
-    </tr>
     <tr>
     <td style="text-align: center">06/02/2024 to 14/05/2024</td>
     <td style="text-align: center">General Topology</td>
@@ -34,20 +80,6 @@ title: Teaching
     <td style="text-align: center">Julien Leroy</td>
     <td style="text-align: center">Master in Math (10 students)</td>
     <td style="text-align: center">20h</td>
-  </tr>
-  <tr>
-    <td style="text-align: center">13/03/2022 to 17/03/2022</td>
-    <td style="text-align: center">Ordinary Differential Equations</td>
-    <td style="text-align: center">Alexander Frank</td>
-    <td style="text-align: center">2nd-year (180 students)</td>
-    <td style="text-align: center">6h (Replacing the Lecture classes)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center">13/03/2022 to 17/03/2022</td>
-    <td style="text-align: center">Advanced Calculus</td>
-    <td style="text-align: center">Alexander Frank</td>
-    <td style="text-align: center">2nd-year (60 students)</td>
-    <td style="text-align: center">3h (Replacing the Lecture classes)</td>
   </tr>
   <tr>
     <td style="text-align: center">12/03/2018 to 24/08/2018</td>
