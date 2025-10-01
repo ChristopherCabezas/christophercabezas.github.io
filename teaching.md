@@ -18,28 +18,24 @@ title: Teaching
     <td style="text-align: center">Introduction to Symbolic Dynamics</td>
     <td style="text-align: center">Christopher Cabezas and Haritha Cheriyath</td>
     <td style="text-align: center">Master in Math (5 students)</td>
-    <td style="text-align: center"></td>
     </tr>
         <tr>
     <td style="text-align: center">10/03/2025 to 31/07/2025</td>
     <td style="text-align: center">Introduction to Algebra</td>
     <td style="text-align: center">Christopher Cabezas</td>
     <td style="text-align: center">1st-year (70 students)</td>
-    <td style="text-align: center"></td>
     </tr>
         <tr>
     <td style="text-align: center">13/03/2022 to 17/03/2022</td>
     <td style="text-align: center">Multivariable Calculus</td>
     <td style="text-align: center">Rafael Correa (Replacing the Lecturer classes 9h)</td>
     <td style="text-align: center">2nd-year (85 students)</td>
-    <td style="text-align: center"></td>
   </tr>
         <tr>
     <td style="text-align: center">10/03/2025 to 31/07/2025</td>
     <td style="text-align: center">Multivariable Calculus</td>
     <td style="text-align: center">Christopher Cabezas</td>
     <td style="text-align: center">2nd-year (110 students)</td>
-    <td style="text-align: center"></td>
     </tr>
     <tr>
     <td style="text-align: center">13/03/2022 to 17/03/2022</td>
@@ -52,7 +48,6 @@ title: Teaching
     <td style="text-align: center">Advanced Calculus</td>
     <td style="text-align: center">Alexander Frank (Replacing the Lecture classes 3h)</td>
     <td style="text-align: center">2nd-year (60 students)</td>
-    <td style="text-align: center"></td>
   </tr>
     </table>
 </ul>
