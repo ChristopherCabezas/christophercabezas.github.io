@@ -5,7 +5,7 @@ title: Publications and Preprints
 ---
 
 <ul>
-	<b>4. Decidability of the isomorphism problem between multidimensional substitutive subshifts. <u>C. Cabezas</u></b>, J. Leroy. <i>Ergodic Theory Dynam. Systems</i>. Published online 2024:1-41.<br>
+	<b>4. Decidability of the isomorphism problem between multidimensional substitutive subshifts. <u>C. Cabezas</u></b>, J. Leroy. <i>Ergodic Theory Dynam. Systems</i>, 45(7):2054-2094, 2025.<br>
 		<a href="https://doi.org/10.1017/etds.2024.87"><div class="color-button">link</div></a>
 	<br>
 	<br>
