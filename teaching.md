@@ -14,16 +14,16 @@ title: Teaching
         <th>Audience</th>
         </tr>
         <tr>
-    <td style="text-align: center">05/01/2026 to 23/01/2026</td>
-    <td style="text-align: center">Precalculus</td>
-    <td style="text-align: center">Christopher Cabezas</td>
-    <td style="text-align: center">Summer university school for High-school students (70 students)</td>
-    </tr>
-        <tr>
     <td style="text-align: center">09/03/2026 to 31/07/2026</td>
     <td style="text-align: center">Multivariable Calculus</td>
     <td style="text-align: center">Christopher Cabezas</td>
     <td style="text-align: center">2nd-year (75 students)</td>
+    </tr>
+        <tr>
+    <td style="text-align: center">05/01/2026 to 23/01/2026</td>
+    <td style="text-align: center">Precalculus</td>
+    <td style="text-align: center">Christopher Cabezas</td>
+    <td style="text-align: center">Summer university school for High-school students (70 students)</td>
     </tr>
         <tr>
     <td style="text-align: center">04/08/2025 to 14/12/2025</td>
