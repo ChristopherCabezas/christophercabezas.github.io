@@ -14,19 +14,31 @@ title: Teaching
         <th>Audience</th>
         </tr>
         <tr>
-    <td style="text-align: center">10/03/2025 to 31/07/2025</td>
+    <td style="text-align: center">05/01/2026 to 23/01/2026</td>
+    <td style="text-align: center">Precalculus</td>
+    <td style="text-align: center">Christopher Cabezas</td>
+    <td style="text-align: center">Summer university school for High-school students (70 students)</td>
+    </tr>
+        <tr>
+    <td style="text-align: center">09/03/2026 to 31/07/2026</td>
+    <td style="text-align: center">Multivariable Calculus</td>
+    <td style="text-align: center">Christopher Cabezas</td>
+    <td style="text-align: center">2nd-year (75 students)</td>
+    </tr>
+        <tr>
+    <td style="text-align: center">04/08/2025 to 14/12/2025</td>
     <td style="text-align: center">Introduction to Symbolic Dynamics</td>
     <td style="text-align: center">Christopher Cabezas and Haritha Cheriyath</td>
     <td style="text-align: center">Master in Math (5 students)</td>
     </tr>
         <tr>
-    <td style="text-align: center">10/03/2025 to 31/07/2025</td>
+    <td style="text-align: center">04/08/2025 to 14/12/2025</td>
     <td style="text-align: center">Introduction to Algebra</td>
     <td style="text-align: center">Christopher Cabezas</td>
     <td style="text-align: center">1st-year (70 students)</td>
     </tr>
         <tr>
-    <td style="text-align: center">13/03/2022 to 17/03/2022</td>
+    <td style="text-align: center">13/03/2025 to 17/03/2025</td>
     <td style="text-align: center">Multivariable Calculus</td>
     <td style="text-align: center">Rafael Correa (Replacing the Lecturer classes 9h)</td>
     <td style="text-align: center">2nd-year (85 students)</td>
@@ -199,7 +211,7 @@ title: Teaching
     <td style="text-align: center">03/01/2014 to 24/01/2014</td>
     <td style="text-align: center">Theory of Real Functions</td>
     <td style="text-align: center">Mauricio Duarte</td>
-    <td style="text-align: center">High-school (90 students)</td>
+    <td style="text-align: center">Summer university school for high-school students (90 students)</td>
     <td style="text-align: center">20h</td>
   </tr>
 </table>
