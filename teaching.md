@@ -14,6 +14,12 @@ title: Teaching
         <th>Audience</th>
         </tr>
         <tr>
+    <td style="text-align: center">03/08/2026 to 31/12/2026</td>
+    <td style="text-align: center">Linear Algebra</td>
+    <td style="text-align: center">Christopher Cabezas</td>
+    <td style="text-align: center">1nd-year (75 students)</td>
+    </tr>
+        <tr>
     <td style="text-align: center">09/03/2026 to 31/07/2026</td>
     <td style="text-align: center">Multivariable Calculus</td>
     <td style="text-align: center">Christopher Cabezas</td>
